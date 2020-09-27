@@ -1,2 +1,27 @@
-# Default ignored files
-/workspace.xml
+*.class
+*.log
+*.lock
+ 
+#packege files#
+*.jar
+*.war
+*.ear
+target/
+ 
+#idea
+.idea/
+*.iml
+ 
+*velocity.log*
+ 
+###STS###
+.springBeans
+.factorypath
+.apt_generated
+ 
+#intelliJ IDEA#
+*.iml
+*.ipr
+*.iws
+.idea
+ 

@@ -12,14 +12,9 @@
         <module>ly-gateway</module>
         <module>ly-item</module>
         <module>ly-item</module>
-        <module>ly-item-api</module>
-        <module>ly-</module>
         <module>ly-common</module>
-        <module>ly-item-api</module>
-        <module>ly-item-api</module>
         <module>ly-common</module>
-        <module>ly-item-service</module>
-        <module>ly</module>
+
     </modules>
 
     <packaging>pom</packaging>
@@ -57,7 +52,7 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>8.0.19</version>
+                <version>5.1.47</version>
             </dependency>
             <dependency>
                 <groupId>com.baomidou</groupId>
