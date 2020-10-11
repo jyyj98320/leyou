@@ -5,9 +5,9 @@ spring:
     name: item-service
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/leyou-1?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&useSSL=false
+    url: jdbc:mysql://localhost:3306/heima?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&useSSL=false
     username: root
-    password: 12345
+    password: 1234root
 eureka:
   client:
     service-url:
